@@ -1,5 +1,5 @@
 # VeriNet 🌐
-> **"Verifiable Internet - Siloed systems to shared truth"**
+> **"Verifiable Network - Siloed systems to shared truth"**
 
 [![Built with Blockchain](https://img.shields.io/badge/Built%20with-Blockchain-blue)](https://github.com/verinet-network)
 [![Status](https://img.shields.io/badge/Status-Active%20Development-green)](https://github.com/verinet-network)
