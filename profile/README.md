@@ -14,7 +14,7 @@ Unlock massive amounts of enterprise data trapped inside siloed ERPs and transfo
 ## 🚀 Our Products
 
 ### 1. **VeriOS** 
-“Windows manages task scheduling among hardware. VeriOS manages data scheduling among blockchains.”
+“Operating systems manages task scheduling among hardware. VeriOS manages data scheduling among blockchains.”
 
 VeriOS is an open-source ERP framework designed for every individual and organization.
 It captures structured business and financial data (HR, payroll, inventory, accounting, etc.) in a consistent format and anchors it to blockchain-based decentralized ledgers.
