@@ -77,13 +77,13 @@ Traditional Web2 ledgers face critical challenges:
 
 ## 👥 Team
 
-### Rakesh S.J. - Founder & CEO
+### Rakesh S.J. - Founder & contributor
 - 📊 Chartered Accountant with 8+ years experience
 - 🚀 Expertise: Process design for startups, VCFO, audit, accounting, financial consulting
 - ⛓️ 7+ years blockchain research and investment experience
 - 💻 Actively building full-stack and smart contract development skills
 
-### Sourav De - Co-Founder & CTO
+### Sourav De - Co-Founder & contributor
 - 💻 3+ years Full Stack Development experience
 - ⛓️ 2+ years hands-on smart contract & blockchain development
 - 🛠️ Focused on Web3 developer tooling, documentation, and protocol adoption
@@ -91,7 +91,6 @@ Traditional Web2 ledgers face critical challenges:
 ## 🎯 Current Status
 
 **✅ Live Prototype Available**
-- RAAS (Rollup-as-a-Service) is live
 - ERP RAAS partially built with live demo featuring:
   - Accounting dashboard
   - Ledger setup interface
